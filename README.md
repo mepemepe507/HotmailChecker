@@ -6,7 +6,7 @@ A simple tool to check for valid Hotmail, Outlook, or Live email accounts.
 
 1. Clone the repository: `git clone https://github.com/mepemepe507/HotmailChecker`
 2. Navigate to the directory: `cd HotmailChecker`
-3. Run the executable: `./CrushChecker.exe`
+3. Run the script: `CrushChecker.exe`
 
 ## Usage
 
