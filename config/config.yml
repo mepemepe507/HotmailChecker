@@ -1,0 +1,10 @@
+checker:
+  print_fail: true
+  print_ms_hit: true
+  retries: 1
+  threads: 25
+  save_bad: false
+  import_from_file: false
+  webhook:
+    Webhook: True
+    WebhookID: WEBHOOKHERE
