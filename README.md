@@ -1,27 +1,22 @@
+# Crush Hotmail Checker
 
+## How to Use?
 
+The files listed in the repository won't work directly. Instead, follow these steps:
 
-# HotmailChecker
+1. Download the pre-compiled `.zip` or `.rar` file from the [Releases page](https://github.com/mepemepe507/HotmailChecker/releases/tag/CrushCheckerV1.0.0).
+2. Extract the downloaded files.
+3. Add your combos to the `combos` file.
+4. Run the main checker file and select one of the options:
+   - **Option 1**: Full capture + email searcher.
+   - **Option 2**: Email validator.
 
-A simple tool to check for valid Hotmail, Outlook, or Live email accounts.
+This tool can achieve up to **3k CPM without proxies**. 
 
-## Installation
+### Bug Reports
+If you encounter any issues, feel free to DM me on Discord: **@mepegottermed**. Please include details about the problem.
 
-1. Clone the repository: `git clone https://github.com/mepemepe507/HotmailChecker`
-2. Navigate to the directory: `cd HotmailChecker`
-3. Run the script: `CrushChecker.exe`
+---
 
-## Usage
-
-1. Launch the application by running the executable.
-2. Select option `2` from the menu to check for valid Hotmail, Outlook, or Live email accounts.
-3. Wait for the process to complete. The results will be saved in a file named `results.txt`.
-
-## Output
-
-- All valid accounts will be stored in `results.txt` located in the same directory as the application.
-
-### Notes
-
-- Ensure you have the required permissions to execute `.exe` files on your system.
-- For troubleshooting or questions, please create an issue in this repository.
+### Join the Community!
+Connect with us on Discord: [Discord.gg/namemcgen](https://discord.gg/namemcgen)
